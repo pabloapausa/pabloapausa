@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning TypeScript.
 
 <a href="https://github.com/apausa">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=apausa&show_icons=true&theme=dark&count_private=true&show_owner" alt="Pablo's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=apausa&show_icons=true&theme=dark&count_private=true&bg_color=#2D2926" alt="Pablo's github stats"/>
 </a>
 
 <!--
