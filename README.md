@@ -5,7 +5,7 @@ Designer, Fullstack Developer.
 
 ## Objectives.
 
-- [ ] Encrypt users passwords on Aphor.
+- [ ] Encrypt user passwords on Aphor.
 - [ ] Refactor Game of Life with canvas.
 
 ## Stats.
