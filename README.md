@@ -1,2 +1,2 @@
 # [Pablo Apausa.](https://apausa.dev)
-[Contact me on linkedIn!](https://www.linkedin.com/in/apausa/)
+[Contact me on LinkedIn!](https://www.linkedin.com/in/apausa/)
