@@ -8,7 +8,8 @@ Designer, Fullstack Developer.
 - [ ] Encrypt user passwords on Aphor.
 - [ ] Refactor Game of Life with canvas.
 - [ ] Delete Sonary's repeated code. 
-- [ ] Start developing my own website. 
+- [ ] Start developing my own website.
+- [ ] Redesign Pokedex interface.
 
 ## Stats.
 
