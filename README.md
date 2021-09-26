@@ -3,9 +3,9 @@
 
 
 Currently working on: 
+- [x] Starting own website.
 - [ ] Testing Backend, (Dos).
 - [ ] Testing Frontend, (Aphor). 
 - [ ] Customizing Sign In page, (Aphor). 
 - [ ] Encrypting user data, (Aphor). 
-- [ ] Starting own website.
 - [ ] Work in Pokedex.
