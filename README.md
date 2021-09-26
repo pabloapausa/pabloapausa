@@ -3,8 +3,8 @@
 
 
 Currently working on: 
-- [ ] Testing back-end, (Dos).
-- [ ] Testing Front-end, (Aphor). 
+- [ ] Testing Backend, (Dos).
+- [ ] Testing Frontend, (Aphor). 
 - [ ] Customizing Sign In page, (Aphor). 
 - [ ] Encrypting user data, (Aphor). 
 - [ ] Starting own website.
