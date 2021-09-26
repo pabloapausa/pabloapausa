@@ -4,6 +4,7 @@
 
 Currently working on: 
 - [x] Starting own website.
+- [ ] 30s of Code contribution.
 - [ ] Testing Backend, (Dos).
 - [ ] Testing Frontend, (Aphor). 
 - [ ] Customizing Sign In page, (Aphor). 
