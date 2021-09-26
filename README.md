@@ -8,3 +8,4 @@ Currently working on:
 - [ ] Customizing Sign In page, (Aphor). 
 - [ ] Encrypting user data, (Aphor). 
 - [ ] Starting own website.
+- [ ] Work in Pokedex.
