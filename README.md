@@ -4,6 +4,5 @@
 
 Currently working on: 
 - [x] Starting own website.
-- [ ] 30s of Code contribution.
-- [ ] Testing Backend, (Dos).
+- [ ] Participating in Hacktoberfest.
 - [ ] Work in Pokedex.
