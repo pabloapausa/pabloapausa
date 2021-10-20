@@ -3,6 +3,6 @@
 
 Currently working on: 
 - [x] Starting own website.
-- [ ] Sonary's Musixmatch API key.
+- [x] Sonary's Musixmatch API key.
 - [x] Participating in Hacktoberfest.
 - [ ] Work in Pokedex.
