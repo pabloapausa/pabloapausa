@@ -3,14 +3,8 @@
 
 Currently updating my portfolio.
 
-Next.js framework:
 - [ ] Aphor, (fullstack).
 - [ ] Pablo, (frontend).
-
-React.js library:
-- [x] Reminders, (frontend).**Deployed**.
 - [ ] Sonary, (frontend).
-
-Vanilla JavaScript: 
+- [x] Reminders, (frontend).**Deployed**.
 - [x] Life, (vanilla). **Deployed**.
-- [ ] <del>Pokedex, (vanilla).</del>
