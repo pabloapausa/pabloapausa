@@ -13,4 +13,4 @@ React.js library:
 
 Vanilla JavaScript: 
 - [x] Life, (vanilla). **Deployed**.
-- [ ] Pokedex, (vanilla).
+- [ ] <del>Pokedex, (vanilla).</del>
