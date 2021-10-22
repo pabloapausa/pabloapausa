@@ -8,7 +8,7 @@ Next.js framework:
 - [ ] Pablo, (frontend).
 
 React.js library:
-- [x] Task, (frontend).**Deployed**.
+- [x] Reminders, (frontend).**Deployed**.
 - [ ] Sonary, (frontend).
 
 Vanilla JavaScript: 
