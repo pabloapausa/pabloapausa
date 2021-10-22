@@ -2,7 +2,6 @@
 [Contact me on LinkedIn!](https://www.linkedin.com/in/apausa/)
 
 Currently updating my portfolio.
-
 - [ ] Aphor, (fullstack).
 - [ ] Pablo, (frontend).
 - [ ] Sonary, (frontend).
