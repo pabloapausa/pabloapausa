@@ -3,8 +3,8 @@
 
 Portfolio: 
 - [x] Life, (vanilla). **Deployed**.
+- [ ] Pokedex, (vanilla).
 - [x] Task, (frontend).**Deployed**.
-- [ ] Pokedex, (frontend).
 - [ ] Sonary, (frontend).
 - [ ] Aphor, (fullstack).
 - [ ] Pablo, (frontend).
