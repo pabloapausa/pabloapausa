@@ -1,7 +1,7 @@
 # [Pablo Apausa.](https://apausa.dev)
 [Contact me on LinkedIn!](https://www.linkedin.com/in/apausa/)
 
-Portfolio:
+Currently updating my portfolio.
 
 Next.js framework:
 - [ ] Aphor, (fullstack).
