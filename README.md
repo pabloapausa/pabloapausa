@@ -4,6 +4,6 @@
 Currently updating my portfolio.
 - [ ] Aphor, (fullstack).
 - [ ] Pablo, (frontend).
-- [ ] Sonary, (frontend).
+- [x] Sonary, (frontend). **Deployed**.
 - [x] Reminders, (frontend).**Deployed**.
 - [x] Life, (vanilla). **Deployed**.
