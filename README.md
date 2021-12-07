@@ -1,1 +1,1 @@
-# [Pablo Apausa.](https://apausa.dev)
+# [Pablo Apausa.](https://pabloapausa.com)
