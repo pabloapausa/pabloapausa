@@ -1,3 +1,3 @@
 # [pablo](https://pablu.xyz)
-Fullstack Developer
+Frontend & Fullstack Developer
 – apausa@pablu.xyz
