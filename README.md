@@ -1,2 +1,2 @@
-# [pablo](https://pablu.xyz)
+# [Pablo Apausa](https://pablu.xyz)
 🌈 Frontend & Fullstack Developer
