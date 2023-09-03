@@ -1,5 +1,5 @@
-[Pablo Apausa](https://apausa.xyz){:target="_blank"} (He/Him)  
-  
+<a href="https://apausa.xyz" target="_blank">Pablo Apausa</a>
+
 Software Engineer  
 Geneva, Switzerland  
 
