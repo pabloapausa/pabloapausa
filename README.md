@@ -1,2 +1,4 @@
-**[Pablo Apausa](https://apausa.xyz)** (He/Him)
-Geneva, Switzerland
+**[Pablo Apausa](https://apausa.xyz)** (He/Him)  
+Software Engineer  
+Geneva, Switzerland  
+
