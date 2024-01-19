@@ -1,3 +1,3 @@
-<a href="https://apausa.xyz" target="_blank" rel="noreferrer">**Pablo Apausa**</a> (He/Him)
+<a href="https://apausa.dev" target="_blank" rel="noreferrer">**Pablo Apausa**</a> (He/Him)
 
 Code + Design • SDE • Geneva, Switzerland
