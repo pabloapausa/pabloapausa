@@ -1,4 +1,4 @@
-# <a href="https://apausa.dev" target="_blank" rel="noreferrer">**Pablo Apausa**</a>
+# Pablo Apausa
 
 👨‍💻 Software Engineer  
 📚 Code + Design @ UOC  
