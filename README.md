@@ -3,4 +3,4 @@
 👨‍💻 Software Engineer  
 📚 Code + Design @ UOC  
 🔬 Prev. CERN  
-🇪🇸 From Madrid, Spain  
+🇪🇸 Based in Madrid, Spain  
