@@ -3,4 +3,4 @@
 Software Engineer  
 Code + Design @ UOC  
 Prev. CERN  
-Madrid, Spain  
+Based in Madrid, Spain  
