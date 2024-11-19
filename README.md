@@ -2,4 +2,5 @@
 
 Software Engineer  
 Code + Design @ UOC  
+CERN Alumni  
 Based in Madrid, Spain  
