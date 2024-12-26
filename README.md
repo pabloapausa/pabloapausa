@@ -23,4 +23,4 @@ Angular · CSS · D3.js · Figma · Git · HTML · Linux · MongoDB · Next.js �
 
 ## Stats
 
-![Pablos's GitHub stats](https://github-readme-stats.vercel.app/api?username=apausa&show_icons=true)
+![Pablos's GitHub stats](https://github-readme-stats.vercel.app/api?username=apausa&show_icons=true&theme=transparent)
