@@ -1,6 +1,6 @@
 # Hi! I am Pablo
 
-I am currently pursuing a dual degree in Software Development and Digital Design at UOC, because of this interdisciplinary program I have the skills to approach projects with a holistic perspective.
+I am currently pursuing a dual degree in Software Development and Digital Design at UOC, because of this interdisciplinary experience I have the skills to approach projects with a holistic perspective.
 
 ## Now listening...
 
