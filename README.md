@@ -1,6 +1,6 @@
 # <a href="https://apausa.dev" target="_blank" rel="noreferrer">Pablo Apausa</a>
 
 Software Engineer  
-Code + Design @ UOC  
+Concurrent BS & BA, Software Development + Digital Design @ UOC  
 CERN Alumni  
 Madrid, Spain  
