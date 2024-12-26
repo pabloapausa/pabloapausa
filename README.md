@@ -10,3 +10,4 @@ Bash · C · Java · JavaScript / TypeScript · SQL · Python · Kotlin
 
 Angular · CSS · D3.js · Figma · Git · HTML · Linux · MongoDB · Next.js · Node.js · P5.js · React.js · React Native · Redux.js · RxJS · Vue.js 
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=pabloapausa)
