@@ -21,3 +21,6 @@ Bash · C · Java · JavaScript / TypeScript · SQL · Swift · Python
 
 Angular · CSS · D3.js · Figma · Git · HTML · Linux · MongoDB · Next.js · Node.js · P5.js · React.js · React Native · Redux.js · RxJS · Vue.js 
 
+## Stats
+
+![Pablos's GitHub stats](https://github-readme-stats.vercel.app/api?username=apausa&show_icons=true)
