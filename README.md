@@ -4,4 +4,11 @@
 
 I am currently pursuing a dual degree in Software Development and Digital Design at UOC, because of this interdisciplinary program I have the skills to approach projects with a holistic perspective.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apausa&size_weight=0.5&count_weight=0.5)
+## Coding Languages
+
+Bash · C · Java · JavaScript / TypeScript · SQL · Python · Kotlin
+
+## Technical Skills
+
+Angular · CSS · D3.js · Figma · Git · HTML · Linux · MongoDB · Next.js · Node.js · P5.js · React.js · React Native · Redux.js · RxJS · Vue.js 
+
