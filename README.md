@@ -5,10 +5,10 @@ Because of my interdisciplinary background I have the skills to approach project
 
 ## Contact
 
-![Static Badge](https://img.shields.io/badge/Personal_Web-0d1117?syle=flat&logo=linktree)
-![Static Badge](https://img.shields.io/badge/LinkedIn-0d1117?syle=flat&logo=linkedin)
-![Static Badge](https://img.shields.io/badge/LeetCode-0d1117?syle=flat&logo=leetcode)
-![Static Badge](https://img.shields.io/badge/Telegram-0d1117?syle=flat&logo=telegram)
+![Static Badge](https://img.shields.io/badge/Personal_Web-0d1117?syle=flat&logo=linktree&link=https%3A%2F%2Fapausa.dev)
+![Static Badge](https://img.shields.io/badge/LinkedIn-0d1117?syle=flat&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fapausa%2F)
+![Static Badge](https://img.shields.io/badge/LeetCode-0d1117?syle=flat&logo=leetcode&link=https%3A%2F%2Fleetcode.com%2Fu%2Fapausa%2F)
+![Static Badge](https://img.shields.io/badge/Telegram-0d1117?syle=flat&logo=telegram&link=https%3A%2F%2Ft.me%2Fpabloapausa)
 
 ## Most Used Coding Languages
 
