@@ -14,7 +14,7 @@ Because of my interdisciplinary background I have the skills to approach project
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?logo=typescript)
 ![Kotlin](https://img.shields.io/badge/Kotlin-black?logo=kotlin)
 
-## Recently Used Technical Skills
+## Recent Technologies
 
 ![Angular](https://img.shields.io/badge/Angular-black?logo=angular)
 ![CSS](https://img.shields.io/badge/CSS-black?logo=css3)
