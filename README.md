@@ -3,7 +3,7 @@
 I am currently pursuing a dual degree in Software Development and Digital Design at UOC.  
 Because of my interdisciplinary background I have the skills to approach projects with a holistic perspective.
 
-## Coding Languages
+## Most Used Coding Languages
 
 ![Static Badge](https://img.shields.io/badge/Bash-0d1117?syle=flat&logo=gnubash)
 ![Static Badge](https://img.shields.io/badge/C-0d1117?syle=flat&logo=c)
@@ -14,7 +14,7 @@ Because of my interdisciplinary background I have the skills to approach project
 ![Static Badge](https://img.shields.io/badge/TypeScript-0d1117?syle=flat&logo=typescript)
 ![Static Badge](https://img.shields.io/badge/Kotlin-0d1117?syle=flat&logo=kotlin)
 
-## Recent Technologies
+## Recently Used Technical Skills
 
 ![Static Badge](https://img.shields.io/badge/Angular-0d1117?syle=flat&logo=angular)
 ![Static Badge](https://img.shields.io/badge/CSS-0d1117?syle=flat&logo=css3)
