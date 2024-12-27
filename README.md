@@ -14,6 +14,6 @@ Angular · CSS · D3.js · Figma · Git · HTML · Linux · MongoDB · Next.js �
 
 Human-computer Interaction · Computer Science · Stoic Philosophy · Competitive Programming
 
-## 😎 Now listening...
+## 🎧 Now listening...
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=pabloapausa&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=pabloapausa&redirect=true)
