@@ -8,11 +8,11 @@ Bash · C · Java · JavaScript · TypeScript · SQL · Python · Kotlin
 
 ## 🌱 Technical Skills
 
-Angular · CSS · D3.js · Figma · Git · HTML · Linux · MongoDB · Next.js · Node.js · P5.js · React.js · React Native · Redux.js · RxJS · Vue.js 
+Angular · CSS · D3.js · Figma · Git · HTML · Linux · MongoDB · Next.js · Node.js · React.js · React Native
 
 ## 📚 Current Interests
 
-Human-computer Interaction · Computer Science · Stoic Philosophy · Competitive Programming · Cybersecurity · Quantum Computing · 
+Human-computer Interaction · Computer Science · Stoic Philosophy · Competitive Programming
 
 ## 😎 Now listening...
 
