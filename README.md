@@ -7,7 +7,7 @@ Because of my interdisciplinary background I have the skills to approach project
 
 ![Bash](https://img.shields.io/badge/Bash-black?logo=gnubash)
 ![C](https://img.shields.io/badge/C-black?logo=c)
-![Java](https://img.shields.io/badge/Javablack?logo=java)
+![Java](https://img.shields.io/badge/Java-black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?logo=typescript)
 ![SQL](https://img.shields.io/badge/SQL-black?logo=postgresql)
@@ -19,11 +19,12 @@ Because of my interdisciplinary background I have the skills to approach project
 ![Angular](https://img.shields.io/badge/Angular-black?logo=angular)
 ![CSS](https://img.shields.io/badge/CSS-black?logo=css)
 ![D3.js](https://img.shields.io/badge/D3.js-black?logo=d3)
-![Figma](https://img.shields.io/badge/Figma-pblack?logo=figma)
+![Figma](https://img.shields.io/badge/Figma-black?logo=figma)
 ![Git](https://img.shields.io/badge/Git-black?logo=git)
 ![HTML](https://img.shields.io/badge/HTML-black?logo=html)
 ![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=nextdotjs)
+
 ![Node.js](https://img.shields.io/badge/Node.js-black?logo=nodedotjs)
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?logo=mongodb)
 ![React.js](https://img.shields.io/badge/React.js-black?logo=react)
