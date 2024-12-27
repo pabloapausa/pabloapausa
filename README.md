@@ -14,34 +14,34 @@ Because of my interdisciplinary background I have the skills to approach project
 
 ## Most Used Coding Languages
 
-![Static Badge](https://img.shields.io/badge/Bash-0d1117?syle=flat&logo=gnubash)
-![Static Badge](https://img.shields.io/badge/C-0d1117?syle=flat&logo=c)
-![Static Badge](https://img.shields.io/badge/Java-0d1117?syle=flat)
-![Static Badge](https://img.shields.io/badge/JavaScript-0d1117?syle=flat&logo=javascript)
-![Static Badge](https://img.shields.io/badge/Python-0d1117?syle=flat&logo=python)
-![Static Badge](https://img.shields.io/badge/SQL-0d1117?syle=flat)
-![Static Badge](https://img.shields.io/badge/TypeScript-0d1117?syle=flat&logo=typescript)
-![Static Badge](https://img.shields.io/badge/Kotlin-0d1117?syle=flat&logo=kotlin)
+[![Static Badge](https://img.shields.io/badge/Bash-0d1117?syle=flat&logo=gnubash)]()
+[![Static Badge](https://img.shields.io/badge/C-0d1117?syle=flat&logo=c)]()
+[![Static Badge](https://img.shields.io/badge/Java-0d1117?syle=flat)]()
+[![Static Badge](https://img.shields.io/badge/JavaScript-0d1117?syle=flat&logo=javascript)]()
+[![Static Badge](https://img.shields.io/badge/Python-0d1117?syle=flat&logo=python)]()
+[![Static Badge](https://img.shields.io/badge/SQL-0d1117?syle=flat)]()
+[![Static Badge](https://img.shields.io/badge/TypeScript-0d1117?syle=flat&logo=typescript)]()
+[![Static Badge](https://img.shields.io/badge/Kotlin-0d1117?syle=flat&logo=kotlin)]()
 
 ## Recently Used Technical Skills
 
-![Static Badge](https://img.shields.io/badge/Angular-0d1117?syle=flat&logo=angular)
-![Static Badge](https://img.shields.io/badge/CSS-0d1117?syle=flat&logo=css3)
-![Static Badge](https://img.shields.io/badge/D3.js-0d1117?syle=flat&logo=d3dotjs)
-![Static Badge](https://img.shields.io/badge/Figma-0d1117?syle=flat&logo=figma)
-![Static Badge](https://img.shields.io/badge/Git-0d1117?syle=flat&logo=git)
-![Static Badge](https://img.shields.io/badge/HTML-0d1117?syle=flat&logo=html5)
-![Static Badge](https://img.shields.io/badge/Linux-0d1117?syle=flat&logo=linux)
-![Static Badge](https://img.shields.io/badge/Next.js-0d1117?syle=flat&logo=nextdotjs)
+[![Static Badge](https://img.shields.io/badge/Angular-0d1117?syle=flat&logo=angular)]()
+[![Static Badge](https://img.shields.io/badge/CSS-0d1117?syle=flat&logo=css3)]()
+[![Static Badge](https://img.shields.io/badge/D3.js-0d1117?syle=flat&logo=d3dotjs)]()
+[![Static Badge](https://img.shields.io/badge/Figma-0d1117?syle=flat&logo=figma)]()
+[![Static Badge](https://img.shields.io/badge/Git-0d1117?syle=flat&logo=git)]()
+[![Static Badge](https://img.shields.io/badge/HTML-0d1117?syle=flat&logo=html5)]()
+[![Static Badge](https://img.shields.io/badge/Linux-0d1117?syle=flat&logo=linux)]()
+[![Static Badge](https://img.shields.io/badge/Next.js-0d1117?syle=flat&logo=nextdotjs)]()
 
-![Static Badge](https://img.shields.io/badge/Node.js-0d1117?syle=flat&logo=nodedotjs)
-![Static Badge](https://img.shields.io/badge/PostgreSQL-0d1117?syle=flat&logo=postgresql)
-![Static Badge](https://img.shields.io/badge/React.js-0d1117?syle=flat&logo=react)
-![Static Badge](https://img.shields.io/badge/React_Native-0d1117?syle=flat&logo=react)
-![Static Badge](https://img.shields.io/badge/Redux.js-0d1117?syle=flat&logo=redux)
-![Static Badge](https://img.shields.io/badge/RxJS-0d1117?syle=flat)
-![Static Badge](https://img.shields.io/badge/Spring_Boot-0d1117?syle=flat&logo=springboot)
-![Static Badge](https://img.shields.io/badge/Vue.js-0d1117?syle=flat&logo=vuedotjs)
+[![Static Badge](https://img.shields.io/badge/Node.js-0d1117?syle=flat&logo=nodedotjs)]()
+[![Static Badge](https://img.shields.io/badge/PostgreSQL-0d1117?syle=flat&logo=postgresql)]()
+[![Static Badge](https://img.shields.io/badge/React.js-0d1117?syle=flat&logo=react)]()
+[![Static Badge](https://img.shields.io/badge/React_Native-0d1117?syle=flat&logo=react)]()
+[![Static Badge](https://img.shields.io/badge/Redux.js-0d1117?syle=flat&logo=redux)]()
+[![Static Badge](https://img.shields.io/badge/RxJS-0d1117?syle=flat)]()
+[![Static Badge](https://img.shields.io/badge/Spring_Boot-0d1117?syle=flat&logo=springboot)]()
+[![Static Badge](https://img.shields.io/badge/Vue.js-0d1117?syle=flat&logo=vuedotjs)]()
 
 ## Now listening...
 
