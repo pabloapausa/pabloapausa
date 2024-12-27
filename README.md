@@ -34,7 +34,9 @@ Because of my interdisciplinary background I have the skills to approach project
 [![Static Badge](https://img.shields.io/badge/Spring_Boot-0d1117?syle=flat&logo=springboot)](https://github.com/apausa)
 [![Static Badge](https://img.shields.io/badge/Vue.js-0d1117?syle=flat&logo=vuedotjs)](https://github.com/apausa)
 
-## Current Interests
+## Other Interests
+
+Human-computer Interaction · Stoic Philosophy · Quantum Computing
 
 ## Now Listening...
 
