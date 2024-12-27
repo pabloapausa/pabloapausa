@@ -33,7 +33,7 @@ Node.js · PostgreSQL · React.js · React Native · Redux.js · RxJS · Spring 
 ![Node.js](https://img.shields.io/badge/Node.js-black?logo=nodedotjs)
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?logo=mongodb)
 ![React.js](https://img.shields.io/badge/React.js-black?logo=react)
-![React Native](https://img.shields.io/badge/React_Native-black?logo=react)
+![AWS](https://img.shields.io/badge/AWS-black?logo=amazonwebservices)
 ![Redux.js](https://img.shields.io/badge/Redux.js-black?logo=redux)
 ![RxJS](https://img.shields.io/badge/RxJS-black?logo=javascript)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-black?logo=springboot)
