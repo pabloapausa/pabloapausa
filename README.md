@@ -9,14 +9,14 @@ Because of my interdisciplinary background I have the skills to approach project
 
 ## Most Used Coding Languages
 
-![Static Badge](https://img.shields.io/badge/Bash-0d1117?syle=flat&logo=gnubash)
-![Static Badge](https://img.shields.io/badge/C-0d1117?syle=flat&logo=c)
-![Static Badge](https://img.shields.io/badge/Java-0d1117?syle=flat)
-![Static Badge](https://img.shields.io/badge/JavaScript-0d1117?syle=flat&logo=javascript)
-![Static Badge](https://img.shields.io/badge/Python-0d1117?syle=flat&logo=python)
-![Static Badge](https://img.shields.io/badge/SQL-0d1117?syle=flat)
-![Static Badge](https://img.shields.io/badge/TypeScript-0d1117?syle=flat&logo=typescript)
-![Static Badge](https://img.shields.io/badge/Kotlin-0d1117?syle=flat&logo=kotlin)
+![Static Badge](https://img.shields.io/badge/Bash-0d1117?syle=flat&logo=gnubash) · 
+![Static Badge](https://img.shields.io/badge/C-0d1117?syle=flat&logo=c) · 
+![Static Badge](https://img.shields.io/badge/Java-0d1117?syle=flat) · 
+![Static Badge](https://img.shields.io/badge/JavaScript-0d1117?syle=flat&logo=javascript) · 
+![Static Badge](https://img.shields.io/badge/Python-0d1117?syle=flat&logo=python) · 
+![Static Badge](https://img.shields.io/badge/SQL-0d1117?syle=flat) · 
+![Static Badge](https://img.shields.io/badge/TypeScript-0d1117?syle=flat&logo=typescript) · 
+![Static Badge](https://img.shields.io/badge/Kotlin-0d1117?syle=flat&logo=kotlin) · 
 
 ## Recently Used Technical Skills
 
