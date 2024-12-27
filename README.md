@@ -7,7 +7,7 @@ Because of my interdisciplinary background I have the skills to approach project
 
 [LinkedIn]() · [Personal Web]() · [LeetCode]() · [Telegram]()
 
-[![Static Badge](https://img.shields.io/badge/Personal_Web-CLICK_HERE-0d1117?syle=flat&logo=linktree)](https://linktree.com/apausa)
+[![Static Badge](https://img.shields.io/badge/Personal_Web-0d1117?syle=flat&logo=linktree)](https://linktree.com/apausa)
 [![Static Badge](https://img.shields.io/badge/LinkedIn-0d1117?syle=flat&logo=linkedin)](https://www.linkedin.com/in/apausa/)
 [![Static Badge](https://img.shields.io/badge/LeetCode-0d1117?syle=flat&logo=leetcode)](https://leetcode.com/u/apausa/)
 [![Static Badge](https://img.shields.io/badge/Telegram-0d1117?syle=flat&logo=telegram)](https://t.me/pabloapausa)
