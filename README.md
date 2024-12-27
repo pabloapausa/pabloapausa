@@ -1,6 +1,6 @@
 # [Pablo Apausa](https://apausa.dev)
 
-I am currently pursuing a dual degree in Software Development and Digital Design at UOC.
+I am currently pursuing a dual degree in Software Development and Digital Design at UOC.  
 Because of my interdisciplinary background I have the skills to approach projects with a holistic perspective.
 
 ## Coding Languages
