@@ -23,8 +23,8 @@ Angular · CSS · D3.js · Figma · Git · HTML · Linux · Next.js
 Node.js · PostgreSQL · React.js · React Native · Redux.js · RxJS · Spring Booot · Vue.js
 
 ![Angular](https://img.shields.io/badge/Angular-black?logo=angular)
-![CSS](https://img.shields.io/badge/CSS-black?logo=css)
-![D3.js](https://img.shields.io/badge/D3.js-black?logo=d3)
+![CSS](https://img.shields.io/badge/CSS-white?logo=css)
+![D3.js](https://img.shields.io/badge/D3.js-white?logo=d3)
 ![Figma](https://img.shields.io/badge/Figma-black?logo=figma)
 ![Git](https://img.shields.io/badge/Git-black?logo=git)
 ![HTML](https://img.shields.io/badge/HTML-black?logo=html)
