@@ -28,7 +28,7 @@ Because of my interdisciplinary background I have the skills to approach project
 ![Node.js](https://img.shields.io/badge/Node.js-black?logo=nodedotjs)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?logo=postgresql)
 ![React.js](https://img.shields.io/badge/React.js-black?logo=react)
-![React Native](https://img.shields.io/badge/React_Native-black)
+![React Native](https://img.shields.io/badge/React_Native-black?logo=react)
 ![Redux.js](https://img.shields.io/badge/Redux.js-black?logo=redux)
 ![RxJS](https://img.shields.io/badge/RxJS-black)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-black?logo=springboot)
