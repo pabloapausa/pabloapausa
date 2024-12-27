@@ -7,11 +7,11 @@ Because of my interdisciplinary background I have the skills to approach project
 
 Bash · C · Java · JavaScript · TypeScript · SQL · Python · Kotlin
 
-## Most Used Technical Skills
+## Technical Skills
 
 Angular · CSS · D3.js · Figma · Git · HTML · Linux · MongoDB · Next.js · Node.js · React.js · React Native
 
-## Some Interests
+## Interests
 
 Human-computer Interaction · Competitive Programming · Stoic Philosophy · Quantum Computing
 
