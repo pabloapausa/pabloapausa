@@ -6,11 +6,11 @@ I am currently pursuing a dual degree in Software Development and Digital Design
 
 Bash · C · Java · JavaScript · TypeScript · SQL · Python · Kotlin
 
-## Technical Skills
+## Selection of Technical Skills
 
 Angular · CSS · D3.js · Figma · Git · HTML · Linux · MongoDB · Next.js · Node.js · React.js · React Native
 
-## Current Interests
+## Some Interests
 
 Human-computer Interaction · Competitive Programming · Stoic Philosophy · Quantum Computing
 
