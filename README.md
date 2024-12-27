@@ -1,4 +1,4 @@
-# Hi there! I'm [Pablo](https://apausa.dev)
+# [Hi there! I'm Pablo](https://apausa.dev)
 
 I am currently pursuing a dual degree in Software Development and Digital Design at UOC.  
 Because of my interdisciplinary background I have the skills to approach projects with a holistic perspective.
@@ -34,10 +34,8 @@ Because of my interdisciplinary background I have the skills to approach project
 [![Static Badge](https://img.shields.io/badge/Spring_Boot-0d1117?syle=flat&logo=springboot)](https://github.com/apausa)
 [![Static Badge](https://img.shields.io/badge/Vue.js-0d1117?syle=flat&logo=vuedotjs)](https://github.com/apausa)
 
-## Contact
+## Current Interests
 
-[apausa.dev](https://linktree.com/apausa)
-
-## Now listening...
+## Now Listening...
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=pabloapausa&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=pabloapausa&redirect=true)
