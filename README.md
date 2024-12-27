@@ -38,4 +38,4 @@ Because of my interdisciplinary background I have the skills to approach project
 
 ## Now Listening...
 
-![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=pabloapausa&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=pabloapausa&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/apausa)
