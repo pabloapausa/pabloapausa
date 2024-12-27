@@ -5,10 +5,7 @@ Because of my interdisciplinary background I have the skills to approach project
 
 ## Contact
 
-- [LinkedIn]()
-- [Personal Web]()
-- [LeetCode]()
-- [Telegram]()
+[LinkedIn]() · [Personal Web]() · [LeetCode]() · [Telegram]()
 
 ## Most Used Coding Languages
 
