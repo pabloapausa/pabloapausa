@@ -9,9 +9,9 @@ Because of my interdisciplinary background I have the skills to approach project
 ![C](https://img.shields.io/badge/C-black?logo=c)
 ![Java](https://img.shields.io/badge/Java-black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-black?logo=typescript)
-![SQL](https://img.shields.io/badge/SQL-black?logo=postgresql)
 ![Python](https://img.shields.io/badge/Python-black?logo=python)
+![SQL](https://img.shields.io/badge/SQL-black?logo=postgresql)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?logo=typescript)
 ![Kotlin](https://img.shields.io/badge/Kotlin-black?logo=kotlin)
 
 ## Recently Used Technical Skills
