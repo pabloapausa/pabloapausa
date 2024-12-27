@@ -22,22 +22,22 @@ Bash · C · Java · JavaScript · TypeScript · SQL · Python · Kotlin
 Angular · CSS · D3.js · Figma · Git · HTML · Linux · Next.js  
 Node.js · PostgreSQL · React.js · React Native · Redux.js · RxJS · Spring Booot · Vue.js
 
-[](https://img.shields.io/badge/Angular-black?logo=angular)
-[](https://img.shields.io/badge/CSS-black?logo=css)
-[](https://img.shields.io/badge/D3.js-black?logo=d3)
-[](https://img.shields.io/badge/Figma-black?logo=figma)
-[](https://img.shields.io/badge/Git-black?logo=git)
-[](https://img.shields.io/badge/HTML-black?logo=html)
-[](https://img.shields.io/badge/Linux-black?logo=linux)
-[](https://img.shields.io/badge/Next.js-black?logo=nextdotjs)
-[](https://img.shields.io/badge/Node.js-black?logo=nodedotjs)
-[](https://img.shields.io/badge/PostgreSQL-black?logo=postgresql)
-[](https://img.shields.io/badge/React.js-black?logo=react)
-[](https://img.shields.io/badge/React_Native-black?logo=react)
-[](https://img.shields.io/badge/Redux.js-black?logo=redux)
-[](https://img.shields.io/badge/RxJS-black?logo=javascript)
-[](https://img.shields.io/badge/Spring_Boot-black?logo=spring)
-[](https://img.shields.io/badge/Vue.js-black?logo=vuedotjs)
+[Angular](https://img.shields.io/badge/Angular-black?logo=angular)
+[CSS](https://img.shields.io/badge/CSS-black?logo=css)
+[D3.js](https://img.shields.io/badge/D3.js-black?logo=d3)
+[Figma](https://img.shields.io/badge/Figma-black?logo=figma)
+[Git](https://img.shields.io/badge/Git-black?logo=git)
+[HTML](https://img.shields.io/badge/HTML-black?logo=html)
+[Linux](https://img.shields.io/badge/Linux-black?logo=linux)
+[Next.js](https://img.shields.io/badge/Next.js-black?logo=nextdotjs)
+[Node.js](https://img.shields.io/badge/Node.js-black?logo=nodedotjs)
+[PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?logo=postgresql)
+[React.js](https://img.shields.io/badge/React.js-black?logo=react)
+[React Native](https://img.shields.io/badge/React_Native-black?logo=react)
+[Redux.js](https://img.shields.io/badge/Redux.js-black?logo=redux)
+[RxJS](https://img.shields.io/badge/RxJS-black?logo=javascript)
+[Spring Boot](https://img.shields.io/badge/Spring_Boot-black?logo=spring)
+[Vue.js](https://img.shields.io/badge/Vue.js-black?logo=vuedotjs)
 
 ## Interests
 
