@@ -7,6 +7,15 @@ Because of my interdisciplinary background I have the skills to approach project
 
 Bash · C · Java · JavaScript · TypeScript · SQL · Python · Kotlin
 
+![Bash](https://img.shields.io/badge/Bash)
+![C](https://img.shields.io/badge/C)
+![Java](https://img.shields.io/badge/Java)
+![JavaScript](https://img.shields.io/badge/JavaScript)
+![TypeScript](https://img.shields.io/badge/TypeScript)
+![SQL](https://img.shields.io/badge/SQL)
+![Python](https://img.shields.io/badge/Python)
+![Kotlin](https://img.shields.io/badge/Kotlin)
+
 ## Recently Used Technical Skills
 
 
