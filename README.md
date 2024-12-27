@@ -1,6 +1,6 @@
 # Hi there! I'm [Pablo](https://apausa.dev)
 
-I am currently pursuing a dual degree in Software Development and Digital Design at UOC.
+I am currently pursuing a dual degree in Software Development and Digital Design at UOC.  
 Because of my interdisciplinary background I have the skills to approach projects with a holistic perspective.
 
 ## Coding Languages
@@ -10,7 +10,7 @@ Bash · C · Java · JavaScript · TypeScript · SQL · Python · Kotlin
 ## Recently Used Technical Skills
 
 
-Angular · CSS · D3.js · Figma · Git · HTML · Linux · Next.js
+Angular · CSS · D3.js · Figma · Git · HTML · Linux · Next.js  
 Node.js · PostgreSQL · React.js · React Native · Redux.js · RxJS · Spring Booot · Vue.js
 
 ## Interests
