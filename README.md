@@ -17,11 +17,11 @@ Because of my interdisciplinary background I have the skills to approach project
 ## Recently Used Technical Skills
 
 ![Angular](https://img.shields.io/badge/Angular-black?logo=angular)
-![CSS](https://img.shields.io/badge/CSS-black?logo=css)
+![CSS](https://img.shields.io/badge/CSS-black?logo=css3)
 ![D3.js](https://img.shields.io/badge/D3.js-black?logo=d3)
 ![Figma](https://img.shields.io/badge/Figma-black?logo=figma)
 ![Git](https://img.shields.io/badge/Git-black?logo=git)
-![HTML](https://img.shields.io/badge/HTML-black?logo=html)
+![HTML](https://img.shields.io/badge/HTML-black?logo=html5)
 ![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=nextdotjs)
 
