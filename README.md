@@ -23,7 +23,6 @@ I am currently pursuing a dual degree in Software Development and Digital Design
 [![Static Badge](https://img.shields.io/badge/-Git-0d1117?syle=flat-square&logo=git)](https://github.com/apausa)
 [![Static Badge](https://img.shields.io/badge/-HTML-0d1117?syle=flat-square&logo=html5)](https://github.com/apausa)
 [![Static Badge](https://img.shields.io/badge/-Next.js-0d1117?syle=flat-square&logo=nextdotjs)](https://github.com/apausa)
-
 [![Static Badge](https://img.shields.io/badge/-MongoDB-0d1117?syle=flat-square&logo=mongodb)](https://github.com/apausa)
 [![Static Badge](https://img.shields.io/badge/-Node.js-0d1117?syle=flat-square&logo=nodedotjs)](https://github.com/apausa)
 [![Static Badge](https://img.shields.io/badge/-PostgreSQL-0d1117?syle=flat-square&logo=postgresql)](https://github.com/apausa)
