@@ -3,15 +3,6 @@
 I am currently pursuing a dual degree in Software Development and Digital Design at UOC.  
 Because of my interdisciplinary background I have the skills to approach projects with a holistic perspective.
 
-## Contact
-
-[LinkedIn]() · [Personal Web]() · [LeetCode]() · [Telegram]()
-
-[![Static Badge](https://img.shields.io/badge/Personal_Web-0d1117?syle=flat&logo=linktree)](https://linktree.com/apausa)
-[![Static Badge](https://img.shields.io/badge/LinkedIn-0d1117?syle=flat&logo=linkedin)](https://www.linkedin.com/in/apausa/)
-[![Static Badge](https://img.shields.io/badge/LeetCode-0d1117?syle=flat&logo=leetcode)](https://leetcode.com/u/apausa/)
-[![Static Badge](https://img.shields.io/badge/Telegram-0d1117?syle=flat&logo=telegram)](https://t.me/pabloapausa)
-
 ## Most Used Coding Languages
 
 [![Static Badge](https://img.shields.io/badge/Bash-0d1117?syle=flat&logo=gnubash)](https://github.com/apausa)
@@ -42,6 +33,13 @@ Because of my interdisciplinary background I have the skills to approach project
 [![Static Badge](https://img.shields.io/badge/RxJS-0d1117?syle=flat)](https://github.com/apausa)
 [![Static Badge](https://img.shields.io/badge/Spring_Boot-0d1117?syle=flat&logo=springboot)](https://github.com/apausa)
 [![Static Badge](https://img.shields.io/badge/Vue.js-0d1117?syle=flat&logo=vuedotjs)](https://github.com/apausa)
+
+## Contact
+
+[![Static Badge](https://img.shields.io/badge/Personal_Web-0d1117?syle=flat&logo=linktree)](https://linktree.com/apausa)
+[![Static Badge](https://img.shields.io/badge/LinkedIn-0d1117?syle=flat&logo=linkedin)](https://www.linkedin.com/in/apausa/)
+[![Static Badge](https://img.shields.io/badge/LeetCode-0d1117?syle=flat&logo=leetcode)](https://leetcode.com/u/apausa/)
+[![Static Badge](https://img.shields.io/badge/Telegram-0d1117?syle=flat&logo=telegram)](https://t.me/pabloapausa)
 
 ## Now listening...
 
