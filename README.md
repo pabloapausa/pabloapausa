@@ -1,4 +1,4 @@
-# Hi! I am Pablo
+# Hi there, my name is Pablo
 
 I am currently pursuing a dual degree in Software Development and Digital Design at UOC, because of my interdisciplinary background I have the skills to approach projects with a holistic perspective.
 
