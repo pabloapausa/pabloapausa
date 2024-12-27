@@ -18,7 +18,7 @@ Because of my interdisciplinary background I have the skills to approach project
 
 ![Angular](https://img.shields.io/badge/Angular-black?logo=angular)
 ![CSS](https://img.shields.io/badge/CSS-black?logo=css3)
-![D3.js](https://img.shields.io/badge/D3.js-black?logo=d3)
+![D3.js](https://img.shields.io/badge/D3.js-black?logo=d3dotjs)
 ![Figma](https://img.shields.io/badge/Figma-black?logo=figma)
 ![Git](https://img.shields.io/badge/Git-black?logo=git)
 ![HTML](https://img.shields.io/badge/HTML-black?logo=html5)
