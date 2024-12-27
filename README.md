@@ -8,7 +8,8 @@ Bash · C · Java · JavaScript · TypeScript · SQL · Python · Kotlin
 
 ## Technical Skills
 
-Angular · CSS · D3.js · Figma · Git · HTML · Linux · MongoDB · Next.js · Node.js · P5.js · React.js · React Native · Redux.js · RxJS · Vue.js 
+Angular · CSS · D3.js · Figma · Git · HTML · Linux · MongoDB · 
+Next.js · Node.js · P5.js · React.js · React Native · Redux.js · RxJS · Vue.js 
 
 ## Interests
 
