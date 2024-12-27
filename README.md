@@ -12,7 +12,7 @@ Angular · CSS · D3.js · Figma · Git · HTML · Linux · MongoDB · Next.js �
 
 ## 📚 Current Interests
 
-Human-computer Interaction · Computer Science · Stoic Philosophy · Competitive Programming
+Human-computer Interaction · Computer Science · Stoic Philosophy · Quantum Computing
 
 ## 🎧 Now listening...
 
