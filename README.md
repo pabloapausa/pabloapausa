@@ -11,7 +11,7 @@ Bash · C · Java · JavaScript · TypeScript · SQL · Python · Kotlin
 
 Angular · CSS · D3.js · Figma · Git · HTML · Linux · MongoDB · Next.js · Node.js · React.js · React Native
 
-## Interests
+## Current Interests
 
 Human-computer Interaction · Competitive Programming · Stoic Philosophy · Quantum Computing
 
