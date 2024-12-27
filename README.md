@@ -7,12 +7,12 @@ Because of my interdisciplinary background I have the skills to approach project
 
 Bash · C · Java · JavaScript · TypeScript · SQL · Python · Kotlin
 
-![Bash](https://img.shields.io/badge/Bash-black?logo=bash)
+![Bash](https://img.shields.io/badge/Bash-black?logo=gnubash)
 ![C](https://img.shields.io/badge/C-black?logo=c)
 ![Java](https://img.shields.io/badge/Java-black?logo=java)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?logo=typescript)
-![SQL](https://img.shields.io/badge/SQL-black?logo=sql)
+![SQL](https://img.shields.io/badge/SQL-black?logo=postgresql)
 ![Python](https://img.shields.io/badge/Python-black?logo=python)
 ![Kotlin](https://img.shields.io/badge/Kotlin-black?logo=kotlin)
 
@@ -31,12 +31,12 @@ Node.js · PostgreSQL · React.js · React Native · Redux.js · RxJS · Spring 
 ![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=nextdotjs)
 ![Node.js](https://img.shields.io/badge/Node.js-black?logo=nodedotjs)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-black?logo=mongodb)
 ![React.js](https://img.shields.io/badge/React.js-black?logo=react)
 ![React Native](https://img.shields.io/badge/React_Native-black?logo=react)
 ![Redux.js](https://img.shields.io/badge/Redux.js-black?logo=redux)
 ![RxJS](https://img.shields.io/badge/RxJS-black?logo=javascript)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-black?logo=spring)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-black?logo=springboot)
 ![Vue.js](https://img.shields.io/badge/Vue.js-black?logo=vuedotjs)
 
 ## Interests
