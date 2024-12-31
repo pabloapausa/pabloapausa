@@ -14,15 +14,16 @@ I am currently pursuing a dual degree in Software Development and Digital Design
 [![Static Badge](https://img.shields.io/badge/-Kotlin-0d1117?syle=flat&logo=kotlin)](https://github.com/apausa)
 
 ## Technical Skills
-
+[![Static Badge](https://img.shields.io/badge/-Angular-0d1117?syle=flat&logo=angular)](https://github.com/apausa)
+[![Static Badge](https://img.shields.io/badge/-Amazon_Web_Services-0d1117?syle=flat&logo=amazonwebservices)](https://github.com/apausa)
 [![Static Badge](https://img.shields.io/badge/-CSS-0d1117?syle=flat&logo=css3)](https://github.com/apausa)
 [![Static Badge](https://img.shields.io/badge/-D3.js-0d1117?syle=flat&logo=d3dotjs)](https://github.com/apausa)
 [![Static Badge](https://img.shields.io/badge/-Figma-0d1117?syle=flat&logo=figma)](https://github.com/apausa)
 [![Static Badge](https://img.shields.io/badge/-Git-0d1117?syle=flat&logo=git)](https://github.com/apausa)
 [![Static Badge](https://img.shields.io/badge/-HTML-0d1117?syle=flat&logo=html5)](https://github.com/apausa)
 [![Static Badge](https://img.shields.io/badge/-Next.js-0d1117?syle=flat&logo=nextdotjs)](https://github.com/apausa)
-[![Static Badge](https://img.shields.io/badge/-MongoDB-0d1117?syle=flat&logo=mongodb)](https://github.com/apausa)
 [![Static Badge](https://img.shields.io/badge/-Node.js-0d1117?syle=flat&logo=nodedotjs)](https://github.com/apausa)
+[![Static Badge](https://img.shields.io/badge/-MongoDB-0d1117?syle=flat&logo=mongodb)](https://github.com/apausa)
 [![Static Badge](https://img.shields.io/badge/-PostgreSQL-0d1117?syle=flat&logo=postgresql)](https://github.com/apausa)
 [![Static Badge](https://img.shields.io/badge/-React.js-0d1117?syle=flat&logo=react)](https://github.com/apausa)
 [![Static Badge](https://img.shields.io/badge/-React_Native-0d1117?syle=flat&logo=react)](https://github.com/apausa)
