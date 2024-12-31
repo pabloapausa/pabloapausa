@@ -13,7 +13,7 @@ I am currently pursuing a dual degree in Software Development and Digital Design
 [![Static Badge](https://img.shields.io/badge/-TypeScript-0d1117?syle=flat&logo=typescript)](https://github.com/apausa)
 [![Static Badge](https://img.shields.io/badge/-Kotlin-0d1117?syle=flat&logo=kotlin)](https://github.com/apausa)
 
-## Technical Skills
+## Technologies
 [![Static Badge](https://img.shields.io/badge/-Angular-0d1117?syle=flat&logo=angular)](https://github.com/apausa)
 [![Static Badge](https://img.shields.io/badge/-CSS-0d1117?syle=flat&logo=css3)](https://github.com/apausa)
 [![Static Badge](https://img.shields.io/badge/-D3.js-0d1117?syle=flat&logo=d3dotjs)](https://github.com/apausa)
