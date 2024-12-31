@@ -15,7 +15,6 @@ I am currently pursuing a dual degree in Software Development and Digital Design
 
 ## Technical Skills
 [![Static Badge](https://img.shields.io/badge/-Angular-0d1117?syle=flat&logo=angular)](https://github.com/apausa)
-[![Static Badge](https://img.shields.io/badge/-Amazon_Web_Services-0d1117?syle=flat&logo=amazonwebservices)](https://github.com/apausa)
 [![Static Badge](https://img.shields.io/badge/-CSS-0d1117?syle=flat&logo=css3)](https://github.com/apausa)
 [![Static Badge](https://img.shields.io/badge/-D3.js-0d1117?syle=flat&logo=d3dotjs)](https://github.com/apausa)
 [![Static Badge](https://img.shields.io/badge/-Figma-0d1117?syle=flat&logo=figma)](https://github.com/apausa)
