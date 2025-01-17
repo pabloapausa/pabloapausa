@@ -28,8 +28,3 @@ I am currently pursuing a dual degree in Software Development and Digital Design
 [![Static Badge](https://img.shields.io/badge/-React_Native-0d1117?syle=flat&logo=react)](https://github.com/apausa)
 [![Static Badge](https://img.shields.io/badge/-Redux.js-0d1117?syle=flat&logo=redux)](https://github.com/apausa)
 [![Static Badge](https://img.shields.io/badge/-Vue.js-0d1117?syle=flat&logo=vuedotjs)](https://github.com/apausa)
-
-## Interests
-
-Algorithms · Human-Computer Interaction · Stoicism · Quantum Computing
-
