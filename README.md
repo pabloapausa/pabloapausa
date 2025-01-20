@@ -33,4 +33,4 @@ I am currently pursuing a dual degree in Software Development and Digital Design
 
 ## Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apausa&hide=jupyter)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apausa&hide=jupyter_notebook)](https://github.com/anuraghazra/github-readme-stats)
